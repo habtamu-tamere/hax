@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @habtamu-tamere
 - 👀 I’m interested in codes 
-- 🌱 I’m currently learning html, css, JavaScript, ionic, Python 
+- 🌱 I’m learning codes 
 - 💞️ I’m looking to collaborate on any innovative solutions 
 - 📫 How to reach me habtamu.tamere@gmail.com
 
